@@ -1,6 +1,6 @@
 package Pkt1;
 /*
- * 
+ *  tarea 10 y 11, 12 errores 
  * Marca error por que  tiene entero no estatico y los metodos piden staticos
  * 
  */
